@@ -22,9 +22,12 @@
     <interest>10</interest>
     <month>1</month>
 </data>
+```
 執行已轉換為 exe 的程式。
 程式將根據設定的參數計算最終的投資回報，並將結果保存到 result.txt 檔案中。
 您可以打開 result.txt 查看計算結果。
-注意事項
+
+## 注意事項
+
 確保 setting.xml 的格式正確，且所有的值都是整數。
 如果修改了 setting.xml 設定，需重新執行程式來獲取新的計算結果。
