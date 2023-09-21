@@ -6,6 +6,7 @@
 # 1. 一個月要投資多少錢
 # 2. 每個月的利息為多少%
 # 3. 要投資幾個月
+# 4.
 
 import xml.etree.ElementTree as ET
 #匯入xml函式庫 並且命名為 ET
